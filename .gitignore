@@ -4,6 +4,7 @@
 *.pyc
 __pycache__/
 local_settings.py
+*.db
 db.sqlite3
 db.sqlite3-journal
 media
@@ -52,3 +53,4 @@ e2e/*.map
 # System Files
 .DS_Store/
 
+/djangular_trivia_web/.vscode/*
