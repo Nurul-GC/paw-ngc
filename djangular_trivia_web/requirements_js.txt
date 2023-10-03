@@ -1,0 +1,14 @@
+npm install -g @angular/cli
+ng new djangular-trivia-web
+cd djangular-trivia-web
+ng serve --open
+ng add @ngular/material
+
+[ to convert our app into PWA ]
+ng add @angular/pwa -- project djangular-trivia-web
+
+[ to run the PWA ]
+npm install --global http-server
+ng build
+cd dist/djangular-trivia-web
+http-server -o
