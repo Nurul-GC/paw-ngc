@@ -1,5 +1,7 @@
 <div align="center">
-![android-chrome-192x192](https://github.com/Nurul-GC/paw-ngc/assets/59439388/a6daac8e-ddd1-4352-a36b-728bbd7c0c9b)
+
+![android-chrome-192x192](./assets/favicons/android-chrome-192x192.png)
+
 </div>
 
 ```txt
